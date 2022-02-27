@@ -1,12 +1,12 @@
 {
     "name": "Bootstrap Starter Kit",
     "description": "Minimal starter template for websites using Bootstrap 5 and Webpixels CSS next to the Eleventy static site generator.",
-    "url": "",
+    "url": "https://contextdrivenpress.com",
     "lang": "en",
-    "githubUrl": "https://github.com/webpixels/bootstrap-starter-kit",
-    "authorName": "Your Name",
-    "authorHandle": "@twitterhandle",
-    "authorEmail": "email@example.com",
+    "githubUrl": "https://github.com/contextdrivenpress",
+    "authorName": "Chris Kenst",
+    "authorHandle": "@ckenst",
+    "authorEmail": "chris@kenst.com",
     "date": 2022,
     "copyright": "2022"
 }
