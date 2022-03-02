@@ -1,8 +1,8 @@
 {
-    "name": "bootstrap-starter-kit",
-    "description": "Minimal starter template for websites using Bootstrap 5 and Webpixels CSS next to the Eleventy static site generator.",
-    "version": "1.1.0",
-    "author": "Webpixels",
+    "name": "context-driven-press",
+    "description": "Using a starter template with Bootstrap 5 and Webpixels CSS next to the Eleventy static site generator.",
+    "version": "1.0.0",
+    "author": "ckenst",
     "license": "MIT",
     "scripts": {
         "start": "run-p serve:eleventy watch:parcel",
