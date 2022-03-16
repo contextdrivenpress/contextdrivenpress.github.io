@@ -18,7 +18,7 @@
         "build:js": "parcel build ./src/js/main.js --dist-dir ./dist/js",
         "build:images": "parcel build src/assets/img/*",
         "clean": "rm -rf dist",
-        "pages": "rm -rf docs && mv dist docs"
+        "pages": "rm -rf docs && mv dist docs && cp CNAME docs/CNAME"
     },
     "repository": {
         "type": "git",
